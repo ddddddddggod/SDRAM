@@ -28,15 +28,15 @@ CPU : ARM Cortex M0
 
 **Top Architecture**
       <p align="center">
-  <img src="sdram_architecture.png" width="200"></p>
+  <img src="sdram_architecture.png" width="500"></p>
   </p>
 
 **Block Diagram**
       <p align="center">
-  <img src="sdram_block_diagram.png" width="200"></p>
+  <img src="sdram_block_diagram.png" width="800"></p>
   </p>
 
 **State Diagram**
       <p align="center">
-  <img src="" width="200"></p>
+  <img src="sdram_state_diagram.png" width="500"></p>
   </p>
