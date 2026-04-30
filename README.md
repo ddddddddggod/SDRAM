@@ -27,3 +27,16 @@ CPU : ARM Cortex M0
     - BL (burst length) : 1,2,4,8
 
 **Top Architecture**
+      <p align="center">
+  <img src="" width="200"></p>
+  </p>
+
+**Block Diagram**
+      <p align="center">
+  <img src="" width="200"></p>
+  </p>
+
+**State Diagram**
+      <p align="center">
+  <img src="" width="200"></p>
+  </p>
