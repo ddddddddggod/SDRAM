@@ -28,7 +28,7 @@ CPU : ARM Cortex M0
 
 **[Top Architecture]**
       <p align="center">
-  <img src="sdram_architecture.png" width="500"></p>
+  <img src="sdram_architecture.png" width="400"></p>
   </p>
 
 **[Block Diagram]**
