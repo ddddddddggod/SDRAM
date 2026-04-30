@@ -4,6 +4,8 @@
 SDRAM : Winbond SDRAM W9825G6KH
 
 CPU : ARM Cortex M0
+
+
 ---
 **Used Command**
 - Bank active
