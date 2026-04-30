@@ -25,3 +25,5 @@ CPU : ARM Cortex M0
     - clk: 133MHz, 166MHz
     - CL(Cas Latency) : 2,3,
     - BL (burst length) : 1,2,4,8
+
+**Top Architecture**
