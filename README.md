@@ -33,7 +33,7 @@ CPU : ARM Cortex M0
 
 **Block Diagram**
       <p align="center">
-  <img src="" width="200"></p>
+  <img src="sdram_block_diagram.png" width="200"></p>
   </p>
 
 **State Diagram**
