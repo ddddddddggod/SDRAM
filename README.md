@@ -7,7 +7,7 @@ CPU : ARM Cortex M0
 
 
 ---
-**Used Command**
+**[Used Command]**
 - Bank active
 - Bank precharge
 - precharge all
@@ -18,7 +18,7 @@ CPU : ARM Cortex M0
 - device deselect
 - Auto-refresh
 
-**Feature**
+**[Feature]**
 - 32bit AHB data to 16bit SDRAM
 - HCLK,PCLK,SCLK CDC
 - suppport grade6
@@ -26,17 +26,17 @@ CPU : ARM Cortex M0
     - CL(Cas Latency) : 2,3,
     - BL (burst length) : 1,2,4,8
 
-**Top Architecture**
+**[Top Architecture]**
       <p align="center">
   <img src="sdram_architecture.png" width="500"></p>
   </p>
 
-**Block Diagram**
+**[Block Diagram]**
       <p align="center">
   <img src="sdram_block_diagram.png" width="800"></p>
   </p>
 
-**State Diagram**
+**[State Diagram]**
       <p align="center">
   <img src="sdram_state_diagram.png" width="500"></p>
   </p>
